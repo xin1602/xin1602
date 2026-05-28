@@ -9,7 +9,7 @@ Currently focused on:
 - Shipping competition projects that can be demoed, tested, and iterated.
 
 ## Selected work
-[![Refacode AI Code Refactoring System](https://img.shields.io/badge/Refacode%20AI%20Code%20Refactoring%20System-000000?style=flat&logo=github&logoColor=white)](https://github.com/WilliamLiao2015/refacode/commits/enhance-agents)
+[![Refacode AI Code Refactoring System](https://img.shields.io/badge/Refacode%20AI%20Code%20Refactoring%20System-000000?style=flat&logo=github&logoColor=white)](https://github.com/WilliamLiao2015/refacode/tree/enhance-agents)
 AI refactoring system for TSMC IT CareerHack finals.
 
 [![BitoGuard Smart Compliance Risk Radar](https://img.shields.io/badge/BitoGuard%20Smart%20Compliance%20Risk%20Radar-000000?style=flat&logo=github&logoColor=white)](https://github.com/xin1602/a4t-project)
